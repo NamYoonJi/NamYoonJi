@@ -1,4 +1,11 @@
-### Hi there 👋
+### NAM YOON JI 
+
+🌱 I’m an junior currently learning Data Science, Artificial Intelligence @ SKKU, Korea. 
+
+📫 How to reach me: seinundzeit@g.skku.edu  or yoon7k3@gmail.com
+
+My CV: (will update later) 
+
 
 <!--
 **NamYoonJi/NamYoonJi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
