@@ -2,6 +2,9 @@
 
 🌱 I’m an junior currently learning Data Science, Artificial Intelligence @ SKKU, Korea. 
 
+   Also an amateur photographer! 
+
+
 📫 How to reach me: seinundzeit@g.skku.edu  or yoon7k3@gmail.com
 
 My CV: (will update later) 
